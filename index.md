@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Open to joy...not seeking, just open.
+### Open to joy...not seeking, just open.
 
 ![](images/cat giphy.gif)
 
@@ -13,3 +13,6 @@ Open to joy...not seeking, just open.
 - [GitHub Pages](http://laderast.github.io)
 - Academia
 - [My down time](http://craigsdeadpool.com/)
+
+
+![](images/flying diamond dave.gif) ![](images/kicking dave.gif)
