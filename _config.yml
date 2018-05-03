@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Julian Egger
   avatar: bio-photo.jpg
-  bio: "Biowhatamatics?."
+  bio: "Biowhatamatics?"
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: NA
+  twitter: #
   linkedin: #username
   github: eggerj
   orcid: # ID Number (ex. 0000-0000-0000-0000)
