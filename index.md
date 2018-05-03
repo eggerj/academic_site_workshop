@@ -15,4 +15,4 @@ excerpt: "About Me..."
 - [My down time](http://craigsdeadpool.com/)
 
 
-![](images/flying diamond dave.gif) ![](images/kicking dave.gif)
+![](images/flying diamond dave.gif)![](images/kicking dave.gif)
