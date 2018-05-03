@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD Candidate in Bioinformatics and Computational Biology
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009-2014`
+__University of Nebraska-Omaha__
+B.S. in Bioinformatics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - Current`
+__Oregon Health & Science University__
+PhD Candidate 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015`
+Biomedical Informatics Training Grant, National Library of Medicine 
 
 ## Publications
 
