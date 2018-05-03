@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-### Open to joy...not seeking, just open.
+Open to joy...not seeking, just open.
 
 ![](images/cat giphy.gif)
 
