@@ -5,6 +5,8 @@ excerpt: "About Me..."
 
 Open to joy...not seeking, just open.
 
+![](images/cat giphy.gif)
+
 ## Current Interests and Projects:
 
 - Website Design
