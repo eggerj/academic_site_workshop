@@ -7,7 +7,7 @@ excerpt: "About Me..."
 
 ![](images/cat giphy.gif)
 
-## Current Interests and Projects:
+### Current Interests and Projects:
 
 - Website Design
 - [GitHub Pages](http://laderast.github.io)
